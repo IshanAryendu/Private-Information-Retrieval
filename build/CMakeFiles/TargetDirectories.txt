@@ -1,0 +1,4 @@
+/home/ishan/Desktop/seal_test/build/CMakeFiles/garbled_circuit_pir.dir
+/home/ishan/Desktop/seal_test/build/CMakeFiles/homomorphic_pir.dir
+/home/ishan/Desktop/seal_test/build/CMakeFiles/edit_cache.dir
+/home/ishan/Desktop/seal_test/build/CMakeFiles/rebuild_cache.dir
