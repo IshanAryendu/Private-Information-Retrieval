@@ -162,8 +162,11 @@ CMakeFiles/garbled_circuit_pir.dir/garbled_circuit_pir.cpp.o
  /usr/include/openssl/cryptoerr.h
  /usr/include/openssl/cryptoerr_legacy.h
  /usr/include/openssl/e_os2.h
+ /usr/include/openssl/ec.h
+ /usr/include/openssl/ecerr.h
  /usr/include/openssl/evp.h
  /usr/include/openssl/evperr.h
+ /usr/include/openssl/hmac.h
  /usr/include/openssl/macros.h
  /usr/include/openssl/obj_mac.h
  /usr/include/openssl/objects.h
