@@ -173,6 +173,7 @@ CMakeFiles/garbled_circuit_pir.dir/garbled_circuit_pir.cpp.o
  /usr/include/openssl/rand.h
  /usr/include/openssl/randerr.h
  /usr/include/openssl/safestack.h
+ /usr/include/openssl/sha.h
  /usr/include/openssl/stack.h
  /usr/include/openssl/symhacks.h
  /usr/include/openssl/types.h
